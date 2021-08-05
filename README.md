@@ -10,5 +10,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaiah08-D&layout=compact&theme=react)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Isaiah08-D&theme=react)
+![trophy](https://github-profile-trophy.vercel.app/?username=Isaiah08-D&theme=nitro)
 
