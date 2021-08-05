@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi!
+- 🔭 I’m currently working [BananaOS](https://github.com/Isaiah08-D/BananaOS) and [B-Script](https://github.com/Isaiah08-D/B-Script)
+- 👯 I’m looking for people to collaborate on [B-Script](https://github.com/Isaiah08-D/B-Script)
+- 📫 How to reach me: [Replit](https://replit.com/@isaiah08) Email: isaiahgrisha@gmail.com [Github](https://github.com/Isaiah08-D)
+- 😄 Pronouns: he/him/his
 
-<!--
-**Isaiah08-D/Isaiah08-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaiah08-D&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isiaah08-D&layout=compact&theme=react)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Isaiah08-D&theme=react)
+
