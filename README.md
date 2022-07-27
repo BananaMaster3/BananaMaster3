@@ -1,14 +1,11 @@
 ## Hi!
 - 🔭 I’m currently working on [an undisclosed game](https://imnotstupid.com).
-- 👯 I’m looking for people to collaborate on [B-Script](https://github.com/Isaiah08-D/B-Script)
 - 📫 How to reach me: [Replit](https://replit.com/@isaiah08) Email: isaiahgrisha@gmail.com [Github](https://github.com/Isaiah08-D)
 - 😄 Pronouns: he/him/his
 
 # Intrests
-- Tkinter (python gui)
-- Language creation
-- Python in genral
-If anyone wants to do a project with me, that would be great!
+- Game dev
+- Python
 
 
 # Stats
