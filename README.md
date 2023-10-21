@@ -7,9 +7,9 @@
 
 
 # Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaiah08-D&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaiah08-D&layout=compact&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaMaster3&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BananaMaster3&layout=compact&theme=react)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Isaiah08-D&theme=nitro)
+![trophy](https://github-profile-trophy.vercel.app/?username=BananaMaster3&theme=nitro)
 
