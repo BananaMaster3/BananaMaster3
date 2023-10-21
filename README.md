@@ -1,10 +1,8 @@
 ## Hi!
-- 🔭 I’m currently working on [an undisclosed game](https://imnotstupid.com).
 - 📫 How to reach me: [Replit (I'm not really active here anymore)](https://replit.com/@isaiah08) Email: isaiahgrisha@gmail.com [Github](https://github.com/Isaiah08-D)
 - 😄 Pronouns: they/them
 
 # Intrests
-- Game dev
 - Robots
 
 
